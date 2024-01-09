@@ -29,8 +29,8 @@ import { RxHamburgerMenu } from "react-icons/rx";
 import { useDispatch, useSelector } from "react-redux";
 import { toggleSideBar } from "../utils/appSlice";
 import { Link } from "react-router-dom";
-import logo_light_theme from "../assests/logo_light_theme.webp";
-import logo_dark_theme from "../assests/logo_dark_theme.webp";
+import logo_light_theme from "../assests/logo_light_theme.svg";
+import logo_dark_theme from "../assests/logo_dark_theme.png";
 import { useContext } from "react";
 import ThemeContext from "./../utils/ThemeContext";
 
