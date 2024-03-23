@@ -30,10 +30,6 @@ The MeTube application uses React Query to cache network calls, which helps redu
 
 The MeTube application comes with an optimized search feature that uses debouncing and caching to reduce the number of API requests. The search feature is highly responsive and provides quick results to users, making it easier to find specific videos.
 
-### **Video Summarizer using Chat GPT**
-
-The MeTube application comes with an advanced video summarizer that uses Chat GPT to generate summaries of uploaded videos. The video summarizer feature allows users to quickly get an overview of a video's content without having to watch the entire video.
-
 #### **Responsive Design**
 
 The MeTube application has been designed to work seamlessly across multiple devices, including desktops, tablets, and mobile phones. The responsive design ensures that the application can adapt to different screen sizes and resolutions.
