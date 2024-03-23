@@ -2,8 +2,8 @@
 
 
 
-# 🎉 OTT
-OTT is a web application built using React.js that allows users to watch videos. It  uses the YouTube API to show videos and provide an experience similar to YouTube. The application also comes with features such as a video summarizer using Chat GPT, cache network calls using React/Tanstack Query to reduce the number of requests to the API, a highly optimized search feature using debouncing and caching, responsive design, and dark mode.
+# 🎉 MeTube
+MeTube is a web application built using React.js that allows users to watch videos. It  uses the YouTube API to show videos and provide an experience similar to YouTube. The application also comes with features such as a video summarizer using Chat GPT, cache network calls using React/Tanstack Query to reduce the number of requests to the API, a highly optimized search feature using debouncing and caching, responsive design, and dark mode.
 
 
 
